@@ -4,7 +4,7 @@ Billetera virtual tipo Nequi construida con Docker, React, Node.js y PostgreSQL.
 
 ## Demo
 
-<video src="demo.mp4" controls width="100%" autoplay loop muted></video>
+![Demo](demo.gif)
 
 ## Tecnologías
 
