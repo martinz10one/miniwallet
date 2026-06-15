@@ -1,6 +1,6 @@
 # MiniWallet
 
-Billetera virtual tipo Nequi construida con Docker, React, Node.js y PostgreSQL.
+Aplicación web full-stack de billetera virtual con transferencias entre usuarios, autenticación JWT y despliegue con Docker Compose.
 
 ## Demo
 
