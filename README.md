@@ -4,7 +4,7 @@ Billetera virtual tipo Nequi construida con Docker, React, Node.js y PostgreSQL.
 
 ## Demo
 
-![MiniWallet](screenshot.png)
+<video src="demo.mp4" controls width="100%" autoplay loop muted></video>
 
 ## Tecnologías
 
